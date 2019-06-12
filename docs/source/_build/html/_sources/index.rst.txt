@@ -4,20 +4,11 @@
    contain the root `toctree` directive.
 
 Welcome to nerdylib's documentation!
-====================================
+=================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
    
     docs/about
-
-
-
-.. Indices and tables
-.. ==================
-
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-.. * :ref:`search`
-.. * :doc:`test</test>` 
+    docs/test
