@@ -4,11 +4,11 @@
    contain the root `toctree` directive.
 
 Welcome to nerdylib's documentation!
-=================================================
+================================================================================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Contents
    
-    docs/about
-    docs/test
+    about
+    test
