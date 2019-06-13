@@ -7,8 +7,8 @@ Welcome to nerdylib's documentation!
 ================================================================================================================
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Contents
+    :maxdepth: 2
+    :caption: Contents
    
     about
     test
